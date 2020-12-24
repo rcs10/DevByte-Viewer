@@ -1,3 +1,7 @@
 <resources>
     <string name="app_name">DevByte Viewer</string>
+    <string name="video_table_name">Dev_Byte_Video_Table</string>
+    <string name="video_database_name">Dev_Byte_Video_Table</string>
+    <string name="play_button">play_button</string>
+    <string name="description_holder">this is for description</string>
 </resources>
